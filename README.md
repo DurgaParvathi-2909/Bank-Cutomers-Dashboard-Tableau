@@ -59,33 +59,46 @@ Used shapes to represent different job classifications and colored the data poin
 
 # Insights
 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
-The pie chart reveals which regions hold the highest and lowest total balances. This helps identify regions with the most financial activity.
+
+The East region holds the highest total balance with 50.33% of the total, amounting to $30,451,829. This indicates a significant concentration of wealth in this region.
+The South region follows with 27.05% and a total balance of $16,272,756, while the West and North regions account for 15.26% and 7.37% respectively, highlighting a disparity in balance distribution among regions.
+
+𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐀𝐠𝐞 𝐚𝐧𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐂𝐨𝐫𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧:
+
+The scatter plot of customer age against balance shows a broad distribution, with a higher density of customers aged 30-50 having balances ranging from 0 to $150K.
+There is no clear linear relationship between age and balance, indicating that age alone is not a strong predictor of balance amount.
+
+𝐉𝐨𝐛 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐛𝐲 𝐑𝐞𝐠𝐢𝐨𝐧:
+
+The Service sector in the East region shows the highest balance at $25,937,116, suggesting a high concentration of wealth in this job classification and region.
+Other job classifications and regions show significantly lower balances, indicating potential areas for growth or targeted marketing.
 
 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
-The bar chart shows the number of male and female customers. Color-coded bars provide a clear visual distinction between genders.
 
-𝐉𝐨𝐛 𝐂𝐥𝐚𝐬𝐬 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐛𝐲 𝐑𝐞𝐠𝐢𝐨𝐧:
-The graph identifies which job classifications contribute the most and least to the balance in each region. This can highlight financial contributions based on job roles.
-
-𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐛𝐲 𝐆𝐞𝐧𝐝𝐞𝐫:
-The table shows average balances for male and female customers. It helps in understanding gender-based financial behaviors.
-
-𝐀𝐠𝐞 𝐯𝐬. 𝐁𝐚𝐥𝐚𝐧𝐜𝐞:
-The scatter plot reveals any correlation between age and balance. Different shapes and colors provide additional insights into job classifications and gender distribution.
+Males constitute a higher customer count at 849 compared to females at 702. However, the average balance for both genders is relatively close, with males slightly higher ($39,737) than females ($38,229).
+This suggests a fairly balanced financial behavior across genders, with a slightly higher male dominance in customer count.
 
 # Recommendations
-𝐅𝐮𝐫𝐭𝐡𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
-Consider exploring trends over time by analyzing the Date Joined field. This could uncover seasonal patterns or changes in customer behavior.
 
-𝐒𝐞𝐠𝐦𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
-Perform segmentation analysis to identify high-value customer profiles based on balance, age, and job classification.
+𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬:
 
-𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬:
-Add trend lines or regression analysis to the scatter plot to better understand the relationship between age and balance.
+Focus marketing and service offerings in the East region, especially in the Service sector, to leverage the high balance concentration.
+Develop targeted financial products or incentives for the North region to boost its relatively lower balance share.
 
-𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐲:
-Implement filters and drill-down options to allow users to explore specific regions, job classifications, or age groups in more detail.
+𝐀𝐠𝐞-𝐁𝐚𝐬𝐞𝐝 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬:
 
+Since customers aged 30-50 have a significant presence, consider designing age-specific financial products or investment options to cater to this demographic.
+Promote educational resources or advisory services for younger customers to build early financial engagement.
+
+𝐆𝐞𝐧𝐝𝐞𝐫-𝐅𝐨𝐜𝐮𝐬𝐞𝐝 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬:
+
+Implement gender-inclusive marketing strategies and create products that address the needs of both male and female customers, ensuring equitable financial growth opportunities.
+Conduct surveys or studies to understand the preferences of the female customer base better and tailor products to encourage higher participation.
+
+𝐄𝐱𝐩𝐚𝐧𝐝 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬:
+
+Given the high balance in the Service sector, explore opportunities to expand business-related services or investments to further capitalize on this segment's potential.
+Consider partnerships or collaborations with service-oriented businesses in the East region to attract more customers and increase balances.
 
 𝑇ℎ𝑖𝑠 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑎𝑖𝑚𝑒𝑑 𝑡𝑜 𝑒𝑥𝑝𝑙𝑜𝑟𝑒 𝑎𝑛𝑑 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑒 𝑘𝑒𝑦 𝑎𝑠𝑝𝑒𝑐𝑡𝑠 𝑜𝑓 𝑡ℎ𝑒 𝑏𝑎𝑛𝑘'𝑠 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟 𝑑𝑎𝑡𝑎𝑠𝑒𝑡 𝑡𝑜 𝑔𝑎𝑖𝑛 𝑖𝑛𝑠𝑖𝑔ℎ𝑡𝑠 𝑖𝑛𝑡𝑜 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟 𝑑𝑒𝑚𝑜𝑔𝑟𝑎𝑝ℎ𝑖𝑐𝑠, 𝑓𝑖𝑛𝑎𝑛𝑐𝑖𝑎𝑙 𝑏𝑒ℎ𝑎𝑣𝑖𝑜𝑟, 𝑎𝑛𝑑 𝑟𝑒𝑔𝑖𝑜𝑛𝑎𝑙 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛. 𝑇ℎ𝑒 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑠 ℎ𝑒𝑙𝑝 𝑖𝑛 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔 𝑡ℎ𝑒 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 𝑜𝑓 𝑎𝑐𝑐𝑜𝑢𝑛𝑡 𝑏𝑎𝑙𝑎𝑛𝑐𝑒𝑠, 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟 𝑑𝑒𝑚𝑜𝑔𝑟𝑎𝑝ℎ𝑖𝑐𝑠 𝑏𝑦 𝑔𝑒𝑛𝑑𝑒𝑟, 𝑗𝑜𝑏 𝑐𝑙𝑎𝑠𝑠 𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒 𝑎𝑐𝑟𝑜𝑠𝑠 𝑟𝑒𝑔𝑖𝑜𝑛𝑠, 𝑎𝑣𝑒𝑟𝑎𝑔𝑒 𝑏𝑎𝑙𝑎𝑛𝑐𝑒𝑠 𝑏𝑦 𝑔𝑒𝑛𝑑𝑒𝑟, 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑟𝑒𝑙𝑎𝑡𝑖𝑜𝑛𝑠ℎ𝑖𝑝 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑎𝑔𝑒 𝑎𝑛𝑑 𝑏𝑎𝑙𝑎𝑛𝑐𝑒.
 
