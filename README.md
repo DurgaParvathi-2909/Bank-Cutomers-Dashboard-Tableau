@@ -59,44 +59,36 @@ Used shapes to represent different job classifications and colored the data poin
 
 # Insights
 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
-
 The East region holds the highest total balance with 50.33% of the total, amounting to $30,451,829. This indicates a significant concentration of wealth in this region.
 The South region follows with 27.05% and a total balance of $16,272,756, while the West and North regions account for 15.26% and 7.37% respectively, highlighting a disparity in balance distribution among regions.
 
 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐀𝐠𝐞 𝐚𝐧𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐂𝐨𝐫𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧:
-
 The scatter plot of customer age against balance shows a broad distribution, with a higher density of customers aged 30-50 having balances ranging from 0 to $150K.
 There is no clear linear relationship between age and balance, indicating that age alone is not a strong predictor of balance amount.
 
 𝐉𝐨𝐛 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐛𝐲 𝐑𝐞𝐠𝐢𝐨𝐧:
-
 The Service sector in the East region shows the highest balance at $25,937,116, suggesting a high concentration of wealth in this job classification and region.
 Other job classifications and regions show significantly lower balances, indicating potential areas for growth or targeted marketing.
 
 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
-
 Males constitute a higher customer count at 849 compared to females at 702. However, the average balance for both genders is relatively close, with males slightly higher ($39,737) than females ($38,229).
 This suggests a fairly balanced financial behavior across genders, with a slightly higher male dominance in customer count.
 
 # Recommendations
 
 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬:
-
 Focus marketing and service offerings in the East region, especially in the Service sector, to leverage the high balance concentration.
 Develop targeted financial products or incentives for the North region to boost its relatively lower balance share.
 
 𝐀𝐠𝐞-𝐁𝐚𝐬𝐞𝐝 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬:
-
 Since customers aged 30-50 have a significant presence, consider designing age-specific financial products or investment options to cater to this demographic.
 Promote educational resources or advisory services for younger customers to build early financial engagement.
 
 𝐆𝐞𝐧𝐝𝐞𝐫-𝐅𝐨𝐜𝐮𝐬𝐞𝐝 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬:
-
 Implement gender-inclusive marketing strategies and create products that address the needs of both male and female customers, ensuring equitable financial growth opportunities.
 Conduct surveys or studies to understand the preferences of the female customer base better and tailor products to encourage higher participation.
 
 𝐄𝐱𝐩𝐚𝐧𝐝 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬:
-
 Given the high balance in the Service sector, explore opportunities to expand business-related services or investments to further capitalize on this segment's potential.
 Consider partnerships or collaborations with service-oriented businesses in the East region to attract more customers and increase balances.
 
